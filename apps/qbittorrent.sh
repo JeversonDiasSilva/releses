@@ -47,7 +47,7 @@ BOLD="\033[1m"
 UNDERLINE="\033[4m"
 
 echo -e "${ROXO}${BOLD}╔══════════════════════════════════════════════════════════╗${RESET}"
-echo -e "${ROXO}${BOLD}  INSTALAÇÃO DO APLICATIVO $app  ${RESET}"
+echo -e "${ROXO}${BOLD}  INSTALAÇÃO DO APLICATIVO ${RESET} ${VERDE} $squash  ${RESET}"
 echo -e "${ROXO}${BOLD}  V40 E V41 - JEVERTON DIAS DA SILVA - 06 DE MAIO DE 2025  ${RESET}"
 echo -e "${ROXO}${BOLD}╚══════════════════════════════════════════════════════════╝${RESET}"
 sleep 2
