@@ -1,5 +1,18 @@
 # Instalações 2025++
+<br><br> 
+
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Bios.png" width="75" height="75" />
+<h2>Instalação das bios batocera v 41</h2>
+
+```bash
+curl -L bit.ly/JCGAMES-BIOS | bash
+```
+
+
 <br><br>
+
 
 
 
