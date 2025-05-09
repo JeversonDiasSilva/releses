@@ -6,7 +6,7 @@
 
 
 <br>
-
+<img src="https://github.com/uureel/batocera.pro/raw/main/altus/extra/icon.png" width=48 height=48 /><b><i>&nbsp;ALTUS </font></b></i><br>
 ```bash
 curl -sL bit.ly/JCGAMES-GPARTED | bash
 ```
