@@ -165,7 +165,7 @@ echo -e "${ROXO}${BOLD}╚══════════════════
 echo -e "${AMARELO}${BOLD}🔔 Para mais informações ou suporte, entre em contato pelo WhatsApp: ${RESET}${VERDE}${BOLD}(41) 99820-5080${RESET}"
 
 # Exibindo @JCGAMESCLASSICOS com destaque
-echo -e "${AMARELO}${BOLD}🚀 Siga-nos no Youtuba para mais novidades: ${RESET}${VERDE}${BOLD}@JCGAMESCLASSICOS${RESET}"
+echo -e "${AMARELO}${BOLD}🚀 Siga-nos no Youtube para mais novidades: ${RESET}${VERDE}${BOLD}@JCGAMESCLASSICOS${RESET}"
 
 # Finalizando
 cd || exit 1
