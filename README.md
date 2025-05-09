@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Qbittorrent.png" width="90" height="90" />
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Qbittorrent.png" width="75" height="75" />
 <h2>Instalação da ferramenta qbittorrent no Batocera v40 e v41</h2>
 
 ```bash
