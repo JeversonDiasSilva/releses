@@ -8,6 +8,9 @@
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Gparted.png" width="48" height="48" />
 <h2>Instalação da ferramenta gparted</h2>
+
+<br>
+
 ```bash
 curl -sL bit.ly/JCGAMES-GPARTED | bash
 ```
