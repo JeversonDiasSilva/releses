@@ -20,7 +20,7 @@ curl -sL bit.ly/JCGAMES-FBA | bash
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Fbneo.png" width="75" height="75" />
-<h2>Instalação do nCore atualizado para o sistema Final Burn Neo</h2>
+<h2>Instalação do core atualizado para o sistema Final Burn Neo</h2>
 
 ```bash
 curl -sL bit.ly/JCGAMES-FBN | bash
