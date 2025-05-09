@@ -1,6 +1,23 @@
 # Instalações 2025++
 <br><br> 
 
+
+
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Resize.png" width="75" height="75" />
+<h2>Resize automático para  batocera v40 e v41</h2>
+
+```bash
+curl -L bit.ly/JCGAMES-RESIZE | bash
+```
+
+
+<br><br>
+
+
+
+
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Bios.png" width="75" height="75" />
