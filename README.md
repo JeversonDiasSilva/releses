@@ -5,6 +5,27 @@
 
 
 
+
+
+
+
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Qbittorrent.png" width="90" height="90" />
+<h2>Instalação da ferramenta qbittorrent no Batocera v40 e v41</h2>
+
+```bash
+curl -L bit.ly/JCGAMES-QBITTORRENT | bash
+```
+
+
+<br><br>
+
+
+
+
+
+
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Ps3.png" width="90" height="90" />
