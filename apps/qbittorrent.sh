@@ -117,16 +117,18 @@ sleep 2
 echo -e "${AMARELO}Salvando as configurações de overlay...${RESET}"
 sleep 2
 
-# Finalizando com mensagem
-echo -e "${ROXO}${BOLD}╔══════════════════════════════════════════════════════════╗${RESET}"
-echo -e "${ROXO}${BOLD}  INSTALAÇÃO CONCLUÍDA COM SUCESSO!                          ${RESET}"
-echo -e "${ROXO}${BOLD}╚══════════════════════════════════════════════════════════╝${RESET}"
-
 # Exibindo WhatsApp com destaque
 echo -e "${AMARELO}${BOLD}🔔 Para mais informações ou suporte, entre em contato pelo WhatsApp: ${RESET}${VERDE}${BOLD}(41) 99820-5080${RESET}"
 
 # Exibindo @JCGAMESCLASSICOS com destaque
 echo -e "${AMARELO}${BOLD}🚀 Siga-nos no YouTube para mais novidades: ${RESET}${VERDE}${BOLD}@JCGAMESCLASSICOS${RESET}"
+
+# Finalizando com mensagem
+echo -e "${ROXO}${BOLD}╔══════════════════════════════════════════════════════════╗${RESET}"
+echo -e "${ROXO}${BOLD}  INSTALAÇÃO CONCLUÍDA COM SUCESSO!                          ${RESET}"
+echo -e "${ROXO}${BOLD}╚══════════════════════════════════════════════════════════╝${RESET}"
+
+
 
 # Finalizando
 cd || exit 1
