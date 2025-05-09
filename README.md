@@ -15,7 +15,8 @@
 <h2>Instalação da ferramenta qbittorrent no Batocera v40 e v41</h2>
 
 ```bash
-curl -L bit.ly/JCGAMES-QBITTORRENT | bash
+######
+curl -L bit.ly/JCGAMES- | bash
 ```
 
 
