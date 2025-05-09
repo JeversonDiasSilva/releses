@@ -3,6 +3,26 @@
 
 
 
+
+
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Ps3_iso.png" width="75" height="75" />
+<h2>Conversor de arquivos no formato.iso para pastas com extenção .ps3 (Converte iso de ps3 em pasta) v40 e v41</h2>
+
+```bash
+curl -L bit.ly/JCGAMES-PS3 | bash
+```
+
+
+<br><br>
+
+
+
+
+
+
+
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Resize.png" width="75" height="75" />
