@@ -20,7 +20,7 @@ curl -L bit.ly/JCGAMES-RESIZE | bash
 
 <br>
 
-<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Bios.png" width="75" height="75" />
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Bios.png" width="80" height="80" />
 <h2>Instalação das bios batocera v 41</h2>
 
 ```bash
