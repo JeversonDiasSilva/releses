@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Gparted.png" width="65" height="65" />
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Gparted.png" width="85" height="85" />
 <h2>Instalação da ferramenta gparted</h2>
 
 ```bash
