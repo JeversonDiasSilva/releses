@@ -26,7 +26,7 @@ curl -sL bit.ly/JCGAMES-HEROIC | bash
 <h2>Instalação da ferramenta Antimicrox v40 e v41</h2>
 
 ```bash
-curl -L bit.ly/JCGAMES- | bash
+curl -L bit.ly/JCGAMES-ANTIMICROX | bash
 ```
 
 
