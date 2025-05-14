@@ -44,7 +44,7 @@ curl -L bit.ly/JCGAMES- | bash
 
 ```bash
 ######
-curl -L bit.ly/JCGAMES- | bash
+curl -sL bit.ly/JCGAMES-PEAZIP | bash
 ```
 
 
