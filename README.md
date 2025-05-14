@@ -26,7 +26,6 @@ curl -sL bit.ly/JCGAMES-HEROIC | bash
 <h2>Instalação da ferramenta Antimicrox v40 e v41</h2>
 
 ```bash
-######
 curl -L bit.ly/JCGAMES- | bash
 ```
 
@@ -43,7 +42,6 @@ curl -L bit.ly/JCGAMES- | bash
 <h2>Instalação da ferramenta Peazip no Batocera v40 e v41</h2>
 
 ```bash
-######
 curl -sL bit.ly/JCGAMES-PEAZIP | bash
 ```
 
@@ -59,7 +57,6 @@ curl -sL bit.ly/JCGAMES-PEAZIP | bash
 <h2>Instalação da ferramenta qbittorrent no Batocera v40 e v41</h2>
 
 ```bash
-######
 curl -sL bit.ly/JCGAMES-QBITTORRENT | bash
 ```
 
