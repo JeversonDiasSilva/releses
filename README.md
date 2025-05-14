@@ -7,10 +7,10 @@
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Heroic.png" width="75" height="75" />
-<h2>Conversor de arquivos no formato.iso para pastas com extenção .ps3 (Converte iso de ps3 em pasta) v40 e v41</h2>
+<h2>Instalados da Heroic Laucher para as versões v40 e v41</h2>
 
 ```bash
-curl -L https://raw.githubusercontent.com/JeversonDiasSilva/releses/refs/heads/main/apps/heroic.sh | bash
+curl -sL https://bit.ly/JCGAMES-HEROIC | bash
 ```
 
 
