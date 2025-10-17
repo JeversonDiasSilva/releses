@@ -9,13 +9,8 @@ url="https://github.com/JeversonDiasSilva/releases/raw/refs/heads/main/apps/down
 
 # Baixando o script e a dependência xdotool
 squash=$(basename "$url")
-wget "$url" -O "$squash" > /dev/null 2>&1
+wget "$url"
 
-# Verificando se o download foi bem-sucedido
-if [ ! -f "$squash" ]; then
-    echo "Erro ao baixar o script!"
-    exit 1
-fi
 
 # Tornando o script executável
 chmod +x "$squash"
