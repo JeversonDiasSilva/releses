@@ -2,17 +2,24 @@
 # Curitiba 17 de Outubro de 2025
 # Editor Jeverson Dias da Silva
 # Youtube/@JCGAMESCLASSICOS
-# Script de instalação"ONLINE" do sistema "de download de jogos windows"
-url="https://github.com/JeversonDiasSilva/releses/raw/refs/heads/main/apps/downloader.sh" > /dev/null 2>&1
-squash=$(basename "$url")
+# Script de instalação "ONLINE" do sistema "de download de jogos windows"
 
+# URL corrigida
+url="https://github.com/JeversonDiasSilva/releases/raw/refs/heads/main/apps/downloader.sh"
 
 # Baixando o script e a dependência xdotool
+squash=$(basename "$url")
 wget "$url" -O "$squash" > /dev/null 2>&1
 
-# Tornando ambos executáveis
+# Verificando se o download foi bem-sucedido
+if [ ! -f "$squash" ]; then
+    echo "Erro ao baixar o script!"
+    exit 1
+fi
+
+# Tornando o script executável
 chmod +x "$squash"
-./xdotool type "./$squash"
-./xdotool key Return
-rm -f xdotool
+
+# Executando o script baixado
+./"$squash"
 clear
