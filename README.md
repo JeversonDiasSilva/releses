@@ -181,7 +181,7 @@ curl -sL bit.ly/JCGAMES-BRAVE | bash
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Tor.png" width="75" height="75" />
-<h2>Instalação do navegador Brave </h2>
+<h2>Instalação do navegador Brave com Buscador Tor</h2>
 
 ```bash
 curl -sL bit.ly/JCGAMES-TOR | bash
@@ -197,7 +197,7 @@ curl -sL bit.ly/JCGAMES-TOR | bash
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Chrome.png" width="75" height="75" />
-<h2>Instalação do navegador Brave </h2>
+<h2>Instalação do navegador Google Chrome </h2>
 
 ```bash
 curl -sL bit.ly/JCGAMES-CHROME | bash
