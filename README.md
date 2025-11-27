@@ -161,8 +161,21 @@ curl -sL bit.ly/JCGAMES-FIREFOX | bash
 
 
 
-<br><br>
+<br><br> https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Brave.png
 
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Brave.png" width="75" height="75" />
+<h2>Instalação do navegador Brave </h2>
+
+```bash
+curl -sL bit.ly/JCGAMES-BRAVE | bash
+```
+
+
+
+
+<br><br> 
 
 
 
