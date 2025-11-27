@@ -4,7 +4,7 @@
 
 ############## VARIÁVEIS PRINCIPAIS ##############
 app="brave"
-squash="Brave Browser"
+squash="Brave Browser + Tor"
 
 exe="/userdata/system/.local/share/applications"
 dir_app="/userdata/system/.dev/apps/brave"
