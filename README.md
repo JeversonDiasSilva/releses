@@ -175,7 +175,7 @@ curl -sL bit.ly/JCGAMES-BRAVE | bash
 
 
 
-<br><br> https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Tor.png
+<br><br>
 
 
 <br>
@@ -185,6 +185,22 @@ curl -sL bit.ly/JCGAMES-BRAVE | bash
 
 ```bash
 curl -sL bit.ly/JCGAMES-TOR | bash
+```
+
+
+
+
+<br><br>
+
+
+
+<br>
+
+<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Chrome.png" width="75" height="75" />
+<h2>Instalação do navegador Brave </h2>
+
+```bash
+curl -sL bit.ly/JCGAMES-CHROME | bash
 ```
 
 
