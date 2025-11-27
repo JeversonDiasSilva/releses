@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Icon=/userdata/system/.dev/apps/chrome/icon/Chrome.png
+Exec=/userdata/system/.dev/apps/brave/Brave-nightly-v1.87.8-x86_64.AppImage --no-sandbox
+Terminal=false
+Type=Application
+Categories=Game;batocera.linux;
+Name=Google Chrome
+NoDisplay=true
